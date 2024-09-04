@@ -1,0 +1,129 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
+    background-image: url('foto10.jpg'); /* Caminho da sua imagem de fundo */
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #5e07a5;
+    margin: 1px
+    padding1px;
+}
+
+header {
+    background-color: rgba(240, 185, 185, 0.5);
+    padding: 0px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 70px;
+    font-weight: bold;
+    color: #ed0e0e;
+    text-shadow: 2px 1px 2px #d51919, 0 0 15px #fdfdfd, 0 0 10px #000;
+    margin: 4px0 0;
+}
+header h2 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #ed0e0e;
+    text-shadow: 2px 1px 2px #d51919, 0 0 15px #fdfdfd, 0 0 10px #000;
+    margin: 2px0 0;
+}
+
+nav {
+    background-color: rgba(235, 83, 83, 0.8);
+    padding: 10px 0;
+    position:fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1000; /* Garante que a navegação esteja acima de outros conteúdos */
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin:0px;
+}
+
+nav ul li a {
+    color: #f0ecf4;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+section {
+    margin: 100px;
+}
+
+#album {
+    padding: 8px;
+}
+
+.photos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2px;
+    justify-content:baseline;
+}
+
+.photo-item {
+    display:block /* Ajusta a largura das fotos para 20% do contêiner */;
+    max-width: 500px; /* Define a largura máxima das fotos */
+    align-items: center; /* Alinha verticalmente o conteúdo ao centro */
+    justify-content: center; /* Centraliza horizontalmente o conteúdo no contêiner */
+    margin-bottom: 20px;
+    gap: 20px; /* Espaçamento entre a imagem e o texto */
+}
+
+.photo-item img {
+    width: 400px; /* Ajusta a largura da imagem para 100% do contêiner */
+    max-width: 500px; /* Define o tamanho máximo para a imagem */
+    height: 500px; /* Mantém a proporção da imagem */
+    border: 2px solid #ddd;
+    border-radius: 50px;
+    display:block; /* Usa flexbox para alinhar itens horizontalmente */
+   
+}
+
+.photo-text {
+    font-family: 'Sevillana', cursive; /* Aplica a fonte escolhida */
+    font-size:40px; /* Ajusta o tamanho da fonte do texto */
+    color: #101010;
+    font-weight:1000;
+    margin:10px;
+    text-shadow: 2px 2px 4px #f3f4f3; /* Ajusta o texto para maior legibilidade */
+    text-align:center;
+    flex:none /* Faz com que o texto ocupe o restante do espaço disponível */
+}
+
+.pagination {
+    text-align: center;
+    margin: 2px 0;
+}
+
+.pagination button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.pagination #page-number {
+    margin: 2p0x;
+    font-size: 16px;
+}
+
+#nossa-historia p {    
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 1.6;
+    text-align: justify;
+    color: #141313;
+    border-radius: 1px;
+}
+
