@@ -6,7 +6,7 @@ Celebrando 15 anos juntos, um caminho de cumplicidade, carinho e crescimento lad
 
 ## 🌸 Nossa História em Imagens e Frases
 
-<![nós](imagens/foto1.jpg)
+<![nós](https://github.com/Gilrlane/projetocasamento/blob/main/foto1.jpg)
 
 > "*Desde o primeiro olhar, o destino já escrevia nosso capítulo mais bonito.*"
 
