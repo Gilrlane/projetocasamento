@@ -7,28 +7,28 @@ Celebrando 15 anos juntos, um caminho de cumplicidade, carinho e crescimento lad
 ## 🌸 Nossa História em Imagens e Frases
 
 <p align="center">
-  <img src="imagens/foto1.jpg" alt="Foto 1" width="400"/>
+  <img src="imagens/foto1.jpg" alt="Foto1" width="400"/>
 </p>
 > "*Desde o primeiro olhar, o destino já escrevia nosso capítulo mais bonito.*"
 
 ---
 
 <p align="center">
-  <img src="imagens/foto2.jpg" alt="Foto 2" width="400"/>
+  <img src="imagens/foto2.jpg" alt="Foto2" width="400"/>
 </p>
 > "*Em cada sorriso compartilhado, nasceu a força do nosso amor.*"
 
 ---
 
 <p align="center">
-  <img src="imagens/foto3.jpg" alt="Foto 3" width="400"/>
+  <img src="imagens/foto3.jpg" alt="Foto3" width="400"/>
 </p>
 > "*Nos momentos simples, construímos a eternidade do nosso casamento.*"
 
 ---
 
 <p align="center">
-  <img src="imagens/foto4.jpg" alt="Foto 4" width="400"/>
+  <img src="imagens/foto4.jpg" alt="Foto4" width="400"/>
 </p>
 > "*Quinze anos, inúmeras histórias, e a certeza de que escolhi o melhor caminho: você.*"
 
