@@ -12,23 +12,20 @@ Celebrando 15 anos juntos, um caminho de cumplicidade, carinho e crescimento lad
 
 ---
 
-<p align="center">
-  <img src="imagens/foto2.jpg" alt="Foto2" width="400"/>
-</p>
+<![Te Amo](https://github.com/Gilrlane/projetocasamento/blob/main/foto2.jpg)
+
 > "*Em cada sorriso compartilhado, nasceu a força do nosso amor.*"
 
 ---
 
-<p align="center">
-  <img src="imagens/foto3.jpg" alt="Foto3" width="400"/>
-</p>
+<![Te Amo](https://github.com/Gilrlane/projetocasamento/blob/main/foto20.jpg)
+
 > "*Nos momentos simples, construímos a eternidade do nosso casamento.*"
 
 ---
 
-<p align="center">
-  <img src="imagens/foto4.jpg" alt="Foto4" width="400"/>
-</p>
+<![Te Amo](https://github.com/Gilrlane/projetocasamento/blob/main/foto3.jpg)
+
 > "*Quinze anos, inúmeras histórias, e a certeza de que escolhi o melhor caminho: você.*"
 
 ---
