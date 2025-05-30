@@ -6,9 +6,8 @@ Celebrando 15 anos juntos, um caminho de cumplicidade, carinho e crescimento lad
 
 ## 🌸 Nossa História em Imagens e Frases
 
-<p align="center">
-  <img src="imagens/foto1.jpg" alt="Foto1" width="400"/>
-</p>
+<![nós](imagens/foto1.jpg)
+
 > "*Desde o primeiro olhar, o destino já escrevia nosso capítulo mais bonito.*"
 
 ---
